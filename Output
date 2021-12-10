@@ -1,0 +1,16 @@
+# cardgame
+p1 name Arman
+p2 name afreen
+beginning War!
+q to quit. Any key to play:a
+Arman drew 10 of clubs afreen drew 9 of hearts
+Arman wins this round
+q to quit. Any key to play:w
+Arman drew Queen of hearts afreen drew King of diamonds
+afreen wins this round
+q to quit. Any key to play:1
+Arman drew King of hearts afreen drew 9 of diamonds
+Arman wins this round
+q to quit. Any key to play:q
+War is over.Arman wins
+PS C:\Users\Arman Sayyed\Desktop\python codes> 
